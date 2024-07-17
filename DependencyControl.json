@@ -19,7 +19,7 @@
           "version": "0.7.2",
           "released": "2018-04-0.6",
           "default": true,
-          "platforms": ["Windows-x86", "Windows-x64", "OSX-x64"],
+          "platforms": ["Windows-x86", "Windows-x64", "OSX-x64", "Linux-x64"],
           "fileBaseUrl": "https://github.com/TypesettingTools/@{scriptName}/releases/download/v0.5.1/",
           "files": [
             {
